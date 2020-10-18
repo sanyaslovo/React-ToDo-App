@@ -1,5 +1,6 @@
-Список задач (ToDo)
-Demo: https://sanyaslovo.github.io/React-ToDo-App/
+**Список задач (ToDo)**
+
+**Demo: https://sanyaslovo.github.io/React-ToDo-App/**
 
 **Stack:**
 
