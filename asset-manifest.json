@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React-ToDo-App/static/css/main.0a851504.chunk.css",
+    "main.js": "/React-ToDo-App/static/js/main.4d82f9b0.chunk.js",
+    "main.js.map": "/React-ToDo-App/static/js/main.4d82f9b0.chunk.js.map",
+    "runtime-main.js": "/React-ToDo-App/static/js/runtime-main.6759c931.js",
+    "runtime-main.js.map": "/React-ToDo-App/static/js/runtime-main.6759c931.js.map",
+    "static/js/2.65029c19.chunk.js": "/React-ToDo-App/static/js/2.65029c19.chunk.js",
+    "static/js/2.65029c19.chunk.js.map": "/React-ToDo-App/static/js/2.65029c19.chunk.js.map",
+    "index.html": "/React-ToDo-App/index.html",
+    "precache-manifest.d0a7aef31e55b83332a9d60bf1644a17.js": "/React-ToDo-App/precache-manifest.d0a7aef31e55b83332a9d60bf1644a17.js",
+    "service-worker.js": "/React-ToDo-App/service-worker.js",
+    "static/css/main.0a851504.chunk.css.map": "/React-ToDo-App/static/css/main.0a851504.chunk.css.map",
+    "static/media/add.svg": "/React-ToDo-App/static/media/add.04bce1ba.svg",
+    "static/media/close.svg": "/React-ToDo-App/static/media/close.10c581b6.svg",
+    "static/media/edit.svg": "/React-ToDo-App/static/media/edit.e6d3868a.svg",
+    "static/media/remove.svg": "/React-ToDo-App/static/media/remove.95f30ee9.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6759c931.js",
+    "static/js/2.65029c19.chunk.js",
+    "static/css/main.0a851504.chunk.css",
+    "static/js/main.4d82f9b0.chunk.js"
+  ]
+}
