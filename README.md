@@ -1,6 +1,11 @@
-**Список задач (ToDo)**
+**ToDo**
 
-**Demo: https://sanyaslovo.github.io/React-ToDo-App/**
+
+1. Download repo
+2. Install dependency's
+3. Run fake-json server || npm fake-json
+4. Run "npm start"
+
 
 **Stack:**
 
